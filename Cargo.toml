@@ -1,0 +1,12 @@
+[package]
+name = "uses-twiggy"
+version = "0.1.0"
+authors = ["Joey Bomber <joseph.bomber@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+twiggy-parser = "0.6.0"
+twiggy-analyze = "0.6.0"
+twiggy-opt = "0.6.0"
